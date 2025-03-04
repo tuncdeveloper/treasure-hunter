@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Prolab.iml" filepath="$PROJECT_DIR$/.idea/Prolab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treasure-hunter/treasure-hunter.iml" filepath="$PROJECT_DIR$/treasure-hunter/treasure-hunter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treasure-hunter/src/treasure-hunter2.iml" filepath="$PROJECT_DIR$/treasure-hunter/src/treasure-hunter2.iml" />
+    </modules>
+  </component>
+</project>
